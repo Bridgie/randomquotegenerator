@@ -1,0 +1,13 @@
+.welcome{
+  font-size: 30px;
+  font-family: 'Baloo Paaji', cursive;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color
+    -webkit-animation: hue 60s infinite linear;
+}
+.container{
+  width: 750px;
+}
+.red{
+  color: red;
+}
